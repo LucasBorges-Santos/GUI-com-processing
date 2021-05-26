@@ -60,7 +60,7 @@ void setup() {
   if(!teste){
     
     // conectando com o arduino
-    port = new Serial(this, "COM4", 9600);
+    port = new Serial(this, "/dev/ttyUSB0", 9600);
   }
 }
 
