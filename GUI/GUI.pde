@@ -144,7 +144,6 @@ void draw() {
     } else{
       
       h++; 
-      println(h);
     }  
   }
   
