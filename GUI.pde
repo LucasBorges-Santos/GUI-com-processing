@@ -447,7 +447,6 @@ void reset(){
   media = 0;
   mediaMin = 0;
   gastoTotal = 0;
-  valorMaximoGasto = 110;
   i = 0;
   x = 0;
   yoff = 0.0; 
